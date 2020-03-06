@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# 241B: Benefits and Tradeoffs of Utilizing Systolic Arrays in Training/Inference with BFLOAT16
+## Anson and Ryan
 
-You can use the [editor on GitHub](https://github.com/TsaiAnson/241b_project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# This is empty/skeletal for now: Just filler
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Project Introduction
 
-### Markdown
+### Abstract
+Abstract here
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Related Papers
 
-```markdown
-Syntax highlighted code block
+## Project Status
 
-# Header 1
-## Header 2
-### Header 3
+### Current Developments
 
-- Bulleted
-- List
+## Project Results
 
-1. Numbered
-2. List
+### Results
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TsaiAnson/241b_project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Future Work
