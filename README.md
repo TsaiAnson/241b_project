@@ -15,3 +15,4 @@ Machine learning (ML) has rapidly become an essential component of modern commer
 ## Final Report
 
 ## Other
+[Presentation Slides](https://docs.google.com/viewer?url=https://github.com/TsaiAnson/241b_project/raw/master/Final%20Presentation.pdf)
