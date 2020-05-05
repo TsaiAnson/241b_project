@@ -13,6 +13,9 @@ Machine learning (ML) has rapidly become an essential component of modern commer
 [Midterm Report](https://docs.google.com/viewer?url=https://github.com/TsaiAnson/241b_project/raw/master/Midterm%20Report.pdf)
 
 ## Final Report
+[Final Report](https://docs.google.com/viewer?url=https://github.com/TsaiAnson/241b_project/raw/master/Final%20Report.pdf)
+(Does not have FP16 data yet)
 
 ## Other
 [Presentation Slides](https://docs.google.com/viewer?url=https://github.com/TsaiAnson/241b_project/raw/master/Final%20Presentation.pdf)
+(Does not have FP16 data yet)
