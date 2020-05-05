@@ -1,4 +1,4 @@
-# Comparing Reduced Bitwidth Representations forMachine Learning - Quantization vs Brain Float
+# Comparing Reduced Bitwidth Representations for Machine Learning - Quantization vs Brain Float
 ## Anson and Ryan
 
 ## Project Abstract
@@ -14,8 +14,7 @@ Machine learning (ML) has rapidly become an essential component of modern commer
 
 ## Final Report
 [Final Report](https://docs.google.com/viewer?url=https://github.com/TsaiAnson/241b_project/raw/master/Final%20Report.pdf)
-(Does not have FP16 data yet)
+[Version 1 (No FP16 Data)]
 
 ## Other
 [Presentation Slides](https://docs.google.com/viewer?url=https://github.com/TsaiAnson/241b_project/raw/master/Final%20Presentation.pdf)
-(Does not have FP16 data yet)
